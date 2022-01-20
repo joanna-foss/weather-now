@@ -1,0 +1,48 @@
+body {
+    background-color: #FCFBFF;
+}
+
+.header {
+    border-bottom: 1px solid black;
+}
+
+.forecast > div {
+    /*background-color: #919090;*/
+    /*color: white;*/
+    border: .1em solid black;
+    border-radius: .5em;
+}
+
+#map {
+    height: 25em;
+    width: 90%;
+    border: 2px solid black;
+    border-radius: 1em;
+}
+
+p {
+    /*border: 1px solid red;*/
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.header {
+    /*border: 1px solid green;*/
+    width: 100%;
+    text-align: center;
+    padding: 1em;
+}
+
+#new-city-please {
+    font-family: "AppleGothic", serif;
+    font-size: large;
+    margin: 1em;
+}
+
+.see-box {
+    border: 1px solid mediumvioletred;
+    /*background-color: tan;*/
+    height: 100%;
+    width: 100%;
+}
